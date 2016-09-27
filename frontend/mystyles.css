@@ -1,11 +1,11 @@
 @font-face {
     font-family: spacebook;
-    src: url(/fonts/Starjedi.ttf);
+    src: url(fonts/Starjedi.ttf);
 }
 
 @font-face {
     font-family: starstyled;
-    src: url(/fonts/starjhol.ttf);
+    src: url(fonts/starjhol.ttf);
 }
 
 html, body {
